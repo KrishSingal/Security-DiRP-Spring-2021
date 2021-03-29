@@ -1,6 +1,6 @@
 # TSSA Security DiRP - Spring 2021
 
-Consortium of students enlightened by the one and only, Garrett Gu
+Consortium of students enlightened in the field of security by the one and only, Garrett Gu
 
 ## Weekly Reading Assignments
 
